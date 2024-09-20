@@ -15,11 +15,6 @@ Each day, I’ll focus on different aspects of front-end development, building p
 | Day | Focus Area | Description |
 | --- | ---------- | ----------- |
 | Day 1 | HTML Basics | Introduction to HTML and building a basic webpage structure. |
-| Day 2 | Advanced HTML | Working with forms, tables, and semantic HTML. |
-| Day 3 | CSS Basics | Styling with CSS, selectors, and properties. |
-| Day 4 | CSS Layouts | Understanding flexbox and grid for responsive layouts. |
-| Day 5 | JavaScript Basics | Getting started with JavaScript, variables, and data types. |
-| ...  | ...        | ...         |
 
 ## 📚 Resources
 
